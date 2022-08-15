@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "set-bar": "/components/SetBar/index",
+    "bottom-bar": "/components/BottomBar/index"
+  }
+}

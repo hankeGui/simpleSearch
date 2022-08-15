@@ -1,0 +1,22 @@
+.bottom{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100rpx;
+	padding: 0 80rpx;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-top: 1px solid #eaeaea;
+	background-color: #FFFFFF;
+	font-size: 26px;
+}
+.count{
+	width: 50rpx;
+	height: 50rpx;
+	text-align: center;
+	line-height: 48rpx;
+	border: 1px solid #333333;
+	border-radius: 5px;
+}
+

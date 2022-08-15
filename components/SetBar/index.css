@@ -1,0 +1,35 @@
+.setbar{
+	position: absolute;
+	z-index: 10;
+	bottom: 0;
+	width: 100%;
+	height: 480upx;
+	color: #333333;
+	background-color: #FFFFFF;
+	display: flex;
+	flex-direction: column;
+	padding: 20upx 25upx;
+}
+.set-opt{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+.opt{
+	margin-top: 40upx;
+	width: 140upx;
+	text-align: center;
+	font-size: 30px;
+}
+.opt-name{
+	font-size: 14px;
+	margin-top: 6upx;
+}
+.set-close{
+	width: 100%;
+	margin-top: 50upx;
+	text-align: center;
+	font-size: 24px;
+}

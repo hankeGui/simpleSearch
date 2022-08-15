@@ -1,0 +1,1 @@
+<view class="bottom"><view class="menu"><text class="cuIcon-file"></text></view><view data-event-opts="{{[['tap',[['showSetBar']]]]}}" class="menu" bindtap="__e"><text class="cuIcon-apps"></text></view><view class="menu"><view class="count">{{''+num+''}}</view></view></view>

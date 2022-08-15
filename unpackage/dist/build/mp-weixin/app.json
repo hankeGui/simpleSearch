@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/view/view",
+    "pages/view/Flip-Countdown"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "uniStatistics": {
+    "enable": true
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
